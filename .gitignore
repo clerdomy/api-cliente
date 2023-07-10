@@ -1,0 +1,5 @@
+venv/
+acess_token.py
+db.sqlite3
+.vscode/
+__pycache__/
